@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    font: bold 25px sans-serif;   
+}
+
+header, section, footer, aside, nav, article, hgroup {
+    display: block;
+}
+
+body {
+    text-align: left;
+    background-image: url(https://resize-parismatch.lanmedia.fr/r/901,,forcex/img/var/news/storage/images/paris-match/people/quand-jared-leto-fait-le-show-a-paris-1480193/gettyimages-932058494/24255602-1-fre-FR/GettyImages-932058494.jpg);
+}
+
+.agrupar {
+    width: 1100px;
+    border: 1px solid black;
+    margin: 15px auto;
+    background: white;
+}
+
+.cabecera {
+    background: black;
+    border: 1px #999999;
+}
+
+.cabecera h1 {
+    text-align: left;
+    font-size: 15px;
+    color: white;
+}
+
+.segundacabezera {
+    background: black;
+    border: 1px #999999;
+   
+}
+
+.segundacabezera h1 {
+    text-align: left;
+    font-size: 40px;
+    color: white;
+}
+
+.menu {
+    background: #2b84f8;
+    padding: 5px 15px ;
+    text-align: left;
+}
+
+.menu li {
+    list-style: none;
+    padding: 5px;
+    font: bold 14px verdana;
+    display: inline-block;
+    color: white;
+}
+
+.seccion {
+    margin: 20px;
+}
+
+
+article {
+    background: black;
+    border: 1px solid #999999;
+    padding: 20px;
+    margin-bottom: 15px;
+    color: greenyellow;
+}
+
+.menudos {
+    font-size: 18px;
+    padding: 30px;
+
+}
+
+
+p {
+    font-size: 20px;
+    line-height: 50px;
+    padding: 10px;
+}
+
+img {
+    width: 250px;
+    float: left;
+    margin-right: 15px;
+    margin-top: 10px;
+    
+}
+
+
+article footer {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.pie {
+    clear: both;
+    padding: 20px;
+    background: #7f8c8d;
+    color: white;
+}
